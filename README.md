@@ -1,2 +1,3 @@
 # cricketStats-layout
-This is just a basic page i created using HTML and CSS to check if I can make a basic page
+This is just a basic page I created using HTML and CSS.
+It is a VPN mock up site. 
