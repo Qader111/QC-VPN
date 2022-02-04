@@ -22,14 +22,14 @@
     color: #F9FaF8;
     flex-wrap: wrap;
     justify-content: space-around;
-    padding-top: 100px;
-    padding-bottom: 20px;
+    padding-top: 80px;
+    padding-bottom: 80px;
     align-items: flex-start;
 
 }
-a:link{
-    size: 18PX;
-    color: #E5E7EB;
+a{
+    size: 18px;
+    color: #F9FaF8;
 }
 
 .Title{
@@ -52,4 +52,43 @@ a:link{
     text-align: center;
     color: #F9FaF8;
    border-radius: 12px;
+}
+.h2{
+    font-size: 32px;
+    color: #1F2937;
+    text-align: center;
+    font-weight: 900;
+}
+.Text4{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+}
+.Images4{
+
+    display: flex;
+    justify-content: space-around;   
+}
+.img1, .img2, .img3, .img4{
+    width: 150px;
+}
+.Quoteflex{
+    background-color: #E5E7Eb;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-items: center;
+
+}
+.quote{
+    text-align: center;
+    font-size: 36px;
+    font-style:italic;
+    color: #1F2937;
+
+}
+.customer{
+    align-self: flex-end;
+    padding-right: 350px;
+    margin-top: -10px;
 }
